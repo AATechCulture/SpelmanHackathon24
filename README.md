@@ -1,34 +1,27 @@
 # Protégé
 
 ## Challenge Statement(s) Addressed 🎯
-...include the challenge statement(s) the project worked to address
+How might we create a personalized platform that connects individuals with industry mentors from diverse companies, fostering meaningful relationships and career growth while addressing the barriers of accessibility, relevance, and inclusivity in professional mentorship?
 
-Examples:
-
-How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-How might we ....
 Project Description 🤯
-....at least 3 sentences describing what the project does and how it works
+This project is a personalized mentorship platform that connects users with industry professionals based on their interests, career goals, and skill development needs. Users create a profile detailing their background, aspirations, and preferences, and the platform’s algorithm matches them with mentors from diverse companies and industries. Through the app, users can schedule mentorship sessions, track their progress, and access tools and resources for professional growth in a supportive and inclusive environment. 
 
 ## Project Value 💰
-....at least 3 sentences describing your target customer and tangible benefits from your solution
+The target customer is students, recent graduates, and professionals seeking career guidance and meaningful mentorship to navigate their industries. These users often struggle to find accessible and personalized mentorship opportunities through traditional platforms like LinkedIn or workplace networks. The app provides tangible benefits, including tailored mentor matches, a streamlined way to build professional relationships, and tools to track career progress, ultimately empowering users to achieve their goals with confidence and clarity.
 
 ## Tech Overview 💻
-... what tech was used to bring this project to life?
-
-Example:
-
-FastAPI
-Hugging Face AI Models
-Next.js
-Java
-ReactJS
+React
+NodeJs
+API's:
+Firebase Backend
+AI
 
 ## Link to Video Pitch 📹
 ...point us to the short clip that tells us about your solution 😄
 
 ## Link to Demo Presentation 📽
-...point us to your PPT or Canva slides 😍
+https://www.canva.com/design/DAGWlzMAH1w/8X8k1HiImqMRsdNJzSA4Gw/edit?utm_content=DAGWlzMAH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Team Checklist ✅
  Team photo
@@ -43,14 +36,13 @@ ReactJS
  Code merged to main branch
  
 ## School Name 🏫
-The ABC School
+Spelman College
 
 ## Team Name 🏷
-Coding Costars
+Spelmanites
 
 ## ✨ Contributors ✨
-...tell the world who you and your team are 🙂
-
-Team member X
-Team member Y
-Team member Z
+Morgan Lee
+Jasmine Singleton
+A'laysia Miller-Chambliss
+Brianna Bray
