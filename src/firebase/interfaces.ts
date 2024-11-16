@@ -4,7 +4,7 @@ export interface Mentee{
     Lname: string;
     City: string;
     Gender: string;
-    interest: string[];
+    interest: string;
     School: string;
     State: string;
 
@@ -21,5 +21,5 @@ export interface Mentor{
     interest3: string;
     job: string;
     state: string;
-    expertise: string[];
+    expertise: string;
 }
