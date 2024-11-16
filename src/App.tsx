@@ -1,3 +1,8 @@
+import AppButton from './components/AppButton';
+const App = () => {
+  return <AppButton></AppButton>
+}
+export default App;
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './components/HomePage';
