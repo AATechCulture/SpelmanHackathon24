@@ -1,50 +1,48 @@
-# React + TypeScript + Vite
+# Protégé
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Challenge Statement(s) Addressed 🎯
+How might we create a personalized platform that connects individuals with industry mentors from diverse companies, fostering meaningful relationships and career growth while addressing the barriers of accessibility, relevance, and inclusivity in professional mentorship?
 
-Currently, two official plugins are available:
+Project Description 🤯
+This project is a personalized mentorship platform that connects users with industry professionals based on their interests, career goals, and skill development needs. Users create a profile detailing their background, aspirations, and preferences, and the platform’s algorithm matches them with mentors from diverse companies and industries. Through the app, users can schedule mentorship sessions, track their progress, and access tools and resources for professional growth in a supportive and inclusive environment. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Value 💰
+The target customer is students, recent graduates, and professionals seeking career guidance and meaningful mentorship to navigate their industries. These users often struggle to find accessible and personalized mentorship opportunities through traditional platforms like LinkedIn or workplace networks. The app provides tangible benefits, including tailored mentor matches, a streamlined way to build professional relationships, and tools to track career progress, ultimately empowering users to achieve their goals with confidence and clarity.
 
-## Expanding the ESLint configuration
+## Tech Overview 💻
+React
+NodeJs
+API's:
+Firebase Backend
+AI
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Link to Video Pitch 📹
+...point us to the short clip that tells us about your solution 😄
 
-- Configure the top-level `parserOptions` property like this:
+## Link to Demo Presentation 📽
+https://www.canva.com/design/DAGWlzMAH1w/8X8k1HiImqMRsdNJzSA4Gw/edit?utm_content=DAGWlzMAH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## Team Checklist ✅
+ Team photo
+ Team Slack channel
+ Communication established with mentor
+ Repo creation from this template
+ Hangar registration
+ 
+## Project Checklist 🏁
+ Presentation complete and linked
+ Video pitch recorded and linked
+ Code merged to main branch
+ 
+## School Name 🏫
+Spelman College
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+## Team Name 🏷
+Spelmanites
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## ✨ Contributors ✨
+Morgan Lee
+Jasmine Singleton
+A'laysia Miller-Chambliss
+Brianna Bray
