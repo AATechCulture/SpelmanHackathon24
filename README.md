@@ -1,4 +1,6 @@
 # Protégé
+## Link to Demo Presentation 📽
+https://www.canva.com/design/DAGWlzMAH1w/8X8k1HiImqMRsdNJzSA4Gw/edit?utm_content=DAGWlzMAH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Challenge Statement(s) Addressed 🎯
 How might we create a personalized platform that connects individuals with industry mentors from diverse companies, fostering meaningful relationships and career growth while addressing the barriers of accessibility, relevance, and inclusivity in professional mentorship?
@@ -16,25 +18,6 @@ API's:
 Firebase Backend
 AI
 
-## Link to Video Pitch 📹
-...point us to the short clip that tells us about your solution 😄
-
-## Link to Demo Presentation 📽
-https://www.canva.com/design/DAGWlzMAH1w/8X8k1HiImqMRsdNJzSA4Gw/edit?utm_content=DAGWlzMAH1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
-## Team Checklist ✅
- Team photo
- Team Slack channel
- Communication established with mentor
- Repo creation from this template
- Hangar registration
- 
-## Project Checklist 🏁
- Presentation complete and linked
- Video pitch recorded and linked
- Code merged to main branch
- 
 ## School Name 🏫
 Spelman College
 
